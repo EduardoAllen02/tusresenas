@@ -19,3 +19,11 @@ versión:
 
 El sitio está marcado con `noindex` a propósito: es una copia de demostración
 y no debe competir en buscadores con el dominio definitivo.
+
+## Logo
+
+El logo oficial de SumaReseñas.com (por ahora) está en
+[`logos/sumaresenas/oficial/`](logos/sumaresenas/oficial/): PNG transparente y
+SVG, para fondo claro y para fondo oscuro. Tipografía: Poppins ExtraBold
+Itálica. Las demás propuestas y la guía de colores están en
+[`logos/sumaresenas/`](logos/sumaresenas/).

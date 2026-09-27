@@ -1,4 +1,29 @@
-# Logo ⭐ SumaReseñas.com — propuestas
+# Logo ⭐ SumaReseñas.com
+
+## Logo oficial (por ahora)
+
+![Logo oficial en fondo claro y en fondo oscuro](oficial/vista-previa.png)
+
+Es la propuesta 09b: Poppins ExtraBold Itálica con la estrella dorada.
+Los archivos están en [`oficial/`](oficial/):
+
+| Archivo | Uso |
+| --- | --- |
+| `sumaresenas-logo-fondo-claro.png` | PNG transparente de 3000 px de ancho, para fondos claros |
+| `sumaresenas-logo-fondo-oscuro.png` | PNG transparente de 3000 px de ancho, para fondos oscuros |
+| `sumaresenas-logo-fondo-claro.svg` y `sumaresenas-logo-fondo-oscuro.svg` | Vectoriales, para imprenta y placas |
+
+**Tipografía:** Poppins ExtraBold Itálica (Google Fonts, licencia SIL Open
+Font License).
+
+| Elemento | Fondo claro | Fondo oscuro |
+| --- | --- | --- |
+| “Suma” | `#18161c` | `#ffffff` |
+| “Reseñas” | `#9a4eeb` | `#c592ff` |
+| “.com” | `#58555e` | `#e9d6ff` |
+| Estrella (degradado) | `#f6d480` → `#ffbe15` → `#cb7300` | Igual |
+
+## Propuestas
 
 ![Las 12 propuestas en fondo claro y oscuro](muestrario.png)
 
@@ -24,7 +49,7 @@ Cada propuesta viene en cuatro archivos:
 | 07 | Yesteryear | Vintage con fuerza | Dorada con relieve |
 | 08 | Playfair Display (Black Italic) | Editorial, premium | Dorada fina |
 | 09 | Poppins (ExtraBold Italic) | Moderna | La estrella lila del sitio actual |
-| 09b | Poppins (ExtraBold Italic) | Moderna | Dorada facetada |
+| **09b** | **Poppins (ExtraBold Italic)** | **Moderna — oficial** | **Dorada facetada** |
 | 10 | Courgette | Suave, con un “+” de *sumar* | Dorada con “+” |
 | 11 | Style Script | Tipo firma | Dorada delineada |
 | 12 | Grand Hotel + Poppins | Script con “.com” en letra de palo | Dorada con relieve |
