@@ -24,6 +24,7 @@ Cada propuesta viene en cuatro archivos:
 | 07 | Yesteryear | Vintage con fuerza | Dorada con relieve |
 | 08 | Playfair Display (Black Italic) | Editorial, premium | Dorada fina |
 | 09 | Poppins (ExtraBold Italic) | Moderna | La estrella lila del sitio actual |
+| 09b | Poppins (ExtraBold Italic) | Moderna | Dorada facetada |
 | 10 | Courgette | Suave, con un “+” de *sumar* | Dorada con “+” |
 | 11 | Style Script | Tipo firma | Dorada delineada |
 | 12 | Grand Hotel + Poppins | Script con “.com” en letra de palo | Dorada con relieve |
