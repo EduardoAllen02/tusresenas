@@ -39,8 +39,8 @@
 <path d="M58,145 L58,155" fill="none" stroke="#fff" stroke-width="7"/>
 <path d="M76,145 L76,155" fill="none" stroke-width="14"/>
 <path d="M76,145 L76,155" fill="none" stroke="#fff" stroke-width="7"/>
-<path d="M55,89 Q42,87 42,101 Q42,111 48,114 Q52,110 54,102 Z"/>
-<path d="M79,89 Q92,87 92,101 Q92,111 86,114 Q82,110 80,102 Z"/>
+<path d="M55,90 C46,86 40,93 41,101 C42,109 47,113 53,109 Z"/>
+<path d="M79,90 C88,86 94,93 93,101 C92,109 87,113 81,109 Z"/>
 <path d="M57,119 L53.2,120.2" fill="none" stroke-width="19"/>
 <path d="M57,119 L53.2,120.2" fill="none" stroke="#fff" stroke-width="12"/>
 <path d="M77,119 L80.8,120.2" fill="none" stroke-width="19"/>
@@ -66,8 +66,8 @@
 <path d="M187,119 L199,126 L205,139" fill="none" stroke="#fff" stroke-width="7"/>
 <path d="M181,150 L182,160" fill="none" stroke-width="14"/>
 <path d="M181,150 L182,160" fill="none" stroke="#fff" stroke-width="7"/>
-<path d="M166,150 L153,156 L146,166" fill="none" stroke-width="14"/>
-<path d="M166,150 L153,156 L146,166" fill="none" stroke="#fff" stroke-width="7"/>
+<path d="M165,150 L152,160 L144,167" fill="none" stroke-width="14"/>
+<path d="M165,150 L152,160 L144,167" fill="none" stroke="#fff" stroke-width="7"/>
 <path d="M161,119 L157.8,122.9" fill="none" stroke-width="19"/>
 <path d="M161,119 L157.8,122.9" fill="none" stroke="#fff" stroke-width="12"/>
 <path d="M187,119 L191.3,121.5" fill="none" stroke-width="19"/>
@@ -75,7 +75,7 @@
 <path d="M185,108 L163,108 L159,139 L189,139 Z"/>
 <path d="M189,139 L159,139 L157.5,152 L190.5,152 Z"/>
 <path d="M186.5,163 L180,161.5 Q172.5,162 171,167 Q170.5,171 173.5,171 L185.5,171 Q187.5,171 186.5,163 Z"/>
-<path d="M148.7,162.5 L142,162.4 Q134.8,164.4 134.4,169.6 Q134.7,173.7 137.7,173 L149.4,170.5 Q151.4,170.1 148.7,162.5 Z"/>
+<path d="M148,165 L141.4,164.4 Q134,165.9 133.2,171.1 Q133.3,175.1 136.2,174.7 L148.1,173 Q150.1,172.8 148,165 Z"/>
 <circle cx="174" cy="98" r="15"/>
 <path d="M188.7,95 A15,15 0 0 0 159.3,95 C165,89 169,87 173,90 C177,87 183,90 186,92 C188,93 188.4,94 188.7,95 Z"/>
 <circle cx="168.3" cy="99.5" r="2.2" fill="#000" stroke="none"/>
