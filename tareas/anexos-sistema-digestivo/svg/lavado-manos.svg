@@ -11,28 +11,28 @@
 <path d="M95,65 C87,56 85,36 98,26 C104,21 112,19 120,19 C128,19 136,21 142,26 C155,36 153,56 145,65 C146,52 136,43 120,43 C104,43 94,52 95,65 Z"/>
 <circle cx="108" cy="61" r="3" fill="#000" stroke="none"/>
 <circle cx="132" cy="61" r="3" fill="#000" stroke="none"/>
-<path d="M110,71 Q120,86 130,71 Z"/>
+<path d="M109,69 Q120,86 131,69 Z"/>
 <path d="M92,32 L76,22 Q71,32 76,42 Z"/>
 <path d="M92,32 L108,22 Q113,32 108,42 Z"/>
 <ellipse cx="92" cy="32" rx="5.5" ry="6.5"/>
 <path d="M148,32 L132,22 Q127,32 132,42 Z"/>
 <path d="M148,32 L164,22 Q169,32 164,42 Z"/>
 <ellipse cx="148" cy="32" rx="5.5" ry="6.5"/>
-<path d="M84.75,102 L84.75,134 L108,156" fill="none" stroke-width="22"/>
-<path d="M84.75,102 L84.75,134 L108,156" fill="none" stroke="#fff" stroke-width="15"/>
-<path d="M155.25,102 L155.25,134 L132,156" fill="none" stroke-width="22"/>
-<path d="M155.25,102 L155.25,134 L132,156" fill="none" stroke="#fff" stroke-width="15"/>
+<path d="M84.75,106 L84.75,136 L108,156" fill="none" stroke-width="22"/>
+<path d="M84.75,106 L84.75,136 L108,156" fill="none" stroke="#fff" stroke-width="15"/>
+<path d="M155.25,106 L155.25,136 L132,156" fill="none" stroke-width="22"/>
+<path d="M155.25,106 L155.25,136 L132,156" fill="none" stroke="#fff" stroke-width="15"/>
 <rect x="-5" y="154" width="250" height="60"/>
-<ellipse cx="120" cy="184" rx="56" ry="14"/>
-<ellipse cx="120" cy="183" rx="46" ry="8.5"/>
+<ellipse cx="120" cy="181" rx="58" ry="12.5"/>
+<ellipse cx="120" cy="180" rx="48" ry="7.5"/>
 <path d="M61,107 L43,107 L34,111 L34,115 L44,115 L44,119 L60,119 Q64,119 64,116 L64,110 Q64,107 61,107 Z"/>
-<rect x="46" y="119" width="12" height="9"/>
+<rect x="45" y="118" width="14" height="11"/>
 <rect x="38" y="128" width="26" height="32" rx="7"/>
 <rect x="43" y="136" width="16" height="16" rx="4"/>
 <path d="M106,154 L106,128 Q106,114 120,114 L138,114 L138,120" fill="none" stroke-width="16"/>
 <path d="M106,154 L106,128 Q106,114 120,114 L138,114 L138,120" fill="none" stroke="#fff" stroke-width="9"/>
-<rect x="128" y="122" width="20" height="10" rx="3"/>
-<path d="M131,132 L145,132 C146,138 143,142 144,146 C144,148 143,150 142,152 L134,152 C133,150 132,148 132,146 C133,142 130,138 131,132 Z"/>
+<rect x="128" y="122" width="20" height="11" rx="3"/>
+<path d="M131,133 L145,133 C146,138 143,142 144,146 C144,148 143,150 142,152 L134,152 C133,150 132,148 132,146 C133,142 130,138 131,132 Z"/>
 <ellipse cx="110" cy="160" rx="15" ry="12" transform="rotate(8 110 160)"/>
 <ellipse cx="132" cy="160" rx="15" ry="12" transform="rotate(-8 132 160)"/>
 <path d="M110,157 A6,6 0 0 1 112,148 A7,7 0 0 1 122,144 A7,7 0 0 1 133,147 A6,6 0 0 1 138,155 A6,6 0 0 1 132,162 A7,7 0 0 1 120,164 A6,6 0 0 1 110,157 Z"/>

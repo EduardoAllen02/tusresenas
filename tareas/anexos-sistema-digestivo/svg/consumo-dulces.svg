@@ -59,12 +59,12 @@
   <g transform="translate(72 46) rotate(-30)">
     <path d="M0,0 C-4,-12 -20,-13 -21,-3 C-22,8 -6,11 0,0 Z"/>
     <path d="M0,0 C4,-12 20,-13 21,-3 C22,8 6,11 0,0 Z"/>
-    <ellipse cx="0" cy="0" rx="4.5" ry="6"/>
+    <ellipse cx="0" cy="0" rx="5.2" ry="6.8"/>
   </g>
   <g transform="translate(120 46) rotate(30)">
     <path d="M0,0 C-4,-12 -20,-13 -21,-3 C-22,8 -6,11 0,0 Z"/>
     <path d="M0,0 C4,-12 20,-13 21,-3 C22,8 6,11 0,0 Z"/>
-    <ellipse cx="0" cy="0" rx="4.5" ry="6"/>
+    <ellipse cx="0" cy="0" rx="5.2" ry="6.8"/>
   </g>
 <ellipse cx="87" cy="78" rx="3.6" ry="5" fill="#000" stroke="none"/>
 <ellipse cx="113" cy="78" rx="3.6" ry="5" fill="#000" stroke="none"/>
@@ -79,9 +79,9 @@
     <path d="M156,108 L157.3,107 L158.9,106.4 L160.5,106.1 L162.3,106.1 L164.1,106.6 L165.8,107.4 L167.5,108.6 L169,110.2 L170.2,112.1 L171.2,114.3 L171.8,116.8 L172,119.5 L171.8,122.4 L171.1,125.3" fill="none"/>
 <ellipse cx="158" cy="148" rx="11" ry="9.5"/>
 <path d="M169,144 L162,144 M169,152 L162,152" fill="none"/>
-<g transform="translate(119 102.5) rotate(13)">
-  <rect x="-14" y="-5.5" width="28" height="11" rx="5.5"/>
-  <path d="M3,0 L9,0" fill="none"/>
+<g transform="translate(117 101) rotate(22)">
+  <path d="M-4,-6.5 C2,-8 9,-7.5 14,-5 C19,-2 19,4 13,7 C7,9.5 0,8.5 -4,6.5 Z"/>
+  <path d="M12,0.5 L5,0.5" fill="none"/>
 </g>
 </g>
 </svg>
