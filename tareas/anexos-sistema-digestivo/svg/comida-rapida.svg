@@ -3,12 +3,11 @@
 <circle cx="44" cy="58" r="6"/>
 <circle cx="92" cy="58" r="6"/>
 <path d="M58,82 C48,84 42,90 42,98 L42,156 L94,156 L94,98 C94,90 88,84 78,82 Z"/>
-<path d="M52,89 C40,89 31,95 28,108 L32,121 Q43,125 52,118 Z"/>
-<path d="M84,89 C96,89 105,95 108,108 L104,121 Q93,125 84,118 Z"/>
+<path d="M53,88 C41,88 31,93 27,104 Q39,111 52,104 Z"/>
+<path d="M83,88 C95,88 105,93 109,104 Q97,111 84,104 Z"/>
 <ellipse cx="68" cy="57" rx="24" ry="26"/>
 <circle cx="59" cy="59" r="3" fill="#000" stroke="none"/>
 <circle cx="77" cy="59" r="3" fill="#000" stroke="none"/>
-<path d="M65.5,62 Q68,65 70.5,62" fill="none"/>
 <path d="M60,65 L76,65 Q75,74 68,74 Q61,74 60,65 Z"/>
 <path d="M42,45 C39,23 53,10 68,10 C83,10 97,23 94,45 Z"/>
 <path d="M68,11 L68,38" fill="none"/>
@@ -23,23 +22,22 @@
 <circle cx="77" cy="88" r="1.9" fill="#000" stroke="none"/>
 <circle cx="64" cy="94" r="1.9" fill="#000" stroke="none"/>
 <circle cx="82" cy="94" r="1.9" fill="#000" stroke="none"/>
-<path d="M41,110 L25,160" fill="none" stroke-width="17"/>
-<path d="M41,110 L25,160" fill="none" stroke="#fff" stroke-width="10"/>
-<path d="M95,110 L111,160" fill="none" stroke-width="17"/>
-<path d="M95,110 L111,160" fill="none" stroke="#fff" stroke-width="10"/>
-<circle cx="41" cy="110" r="9.5"/>
-<path d="M45,104 Q40,99 35,103" fill="none"/>
-<circle cx="95" cy="110" r="9.5"/>
-<path d="M91,104 Q96,99 101,103" fill="none"/>
+<path d="M35,98 L24,160" fill="none" stroke-width="17"/>
+<path d="M35,98 L24,160" fill="none" stroke="#fff" stroke-width="10"/>
+<path d="M101,98 L112,160" fill="none" stroke-width="17"/>
+<path d="M101,98 L112,160" fill="none" stroke="#fff" stroke-width="10"/>
+<circle cx="38" cy="114" r="9.5"/>
+<path d="M42,108 Q37,103 32,107" fill="none"/>
+<circle cx="98" cy="114" r="9.5"/>
+<path d="M94,108 Q99,103 104,107" fill="none"/>
 <path d="M162,82 C152,84 146,90 146,98 L146,156 L198,156 L198,98 C198,90 192,84 182,82 Z"/>
-<path d="M156,89 C144,89 135,95 132,108 L136,121 Q147,125 156,118 Z"/>
-<path d="M188,89 C200,89 209,95 212,108 L208,121 Q197,125 188,118 Z"/>
+<path d="M157,88 C145,88 135,93 131,104 Q143,111 156,104 Z"/>
+<path d="M187,88 C199,88 209,93 213,104 Q201,111 188,104 Z"/>
 <path d="M146,50 C136,50 130,60 131,72 C132,82 136,88 141,87 C146,86 147,76 147,66 Z"/>
 <path d="M198,50 C208,50 214,60 213,72 C212,82 208,88 203,87 C198,86 197,76 197,66 Z"/>
 <ellipse cx="172" cy="57" rx="24" ry="26"/>
 <path d="M158,60 Q163,53 168,60" fill="none"/>
 <path d="M176,60 Q181,53 186,60" fill="none"/>
-<path d="M169.5,62 Q172,65 174.5,62" fill="none"/>
 <path d="M164,65 L180,65 Q179,74 172,74 Q165,74 164,65 Z"/>
 <path d="M145,64 C141,34 155,19 172,19 C189,19 203,34 199,64 L195,64 C194,57 192,51 189,47 Q181,52 172,42 Q163,52 155,47 C152,51 150,57 149,64 Z"/>
 <path d="M139,48 L150,45 L152,56 L141,59 Z"/>
@@ -53,14 +51,14 @@
 <circle cx="181" cy="88" r="1.9" fill="#000" stroke="none"/>
 <circle cx="168" cy="94" r="1.9" fill="#000" stroke="none"/>
 <circle cx="186" cy="94" r="1.9" fill="#000" stroke="none"/>
-<path d="M145,110 L129,160" fill="none" stroke-width="17"/>
-<path d="M145,110 L129,160" fill="none" stroke="#fff" stroke-width="10"/>
-<path d="M199,110 L215,160" fill="none" stroke-width="17"/>
-<path d="M199,110 L215,160" fill="none" stroke="#fff" stroke-width="10"/>
-<circle cx="145" cy="110" r="9.5"/>
-<path d="M149,104 Q144,99 139,103" fill="none"/>
-<circle cx="199" cy="110" r="9.5"/>
-<path d="M195,104 Q200,99 205,103" fill="none"/>
+<path d="M139,98 L128,160" fill="none" stroke-width="17"/>
+<path d="M139,98 L128,160" fill="none" stroke="#fff" stroke-width="10"/>
+<path d="M205,98 L216,160" fill="none" stroke-width="17"/>
+<path d="M205,98 L216,160" fill="none" stroke="#fff" stroke-width="10"/>
+<circle cx="142" cy="114" r="9.5"/>
+<path d="M146,108 Q141,103 136,107" fill="none"/>
+<circle cx="202" cy="114" r="9.5"/>
+<path d="M198,108 Q203,103 208,107" fill="none"/>
 <path d="M 14,150 L 226,150 Q 230,150 230,154 L 230,162 Q 230,166 226,166 L 14,166 Q 10,166 10,162 L 10,154 Q 10,150 14,150 Z"/>
 <path d="M 16,166 L 16,189 Q 26.4,205 36.8,189 Q 47.2,205 57.6,189 Q 68,205 78.4,189 Q 88.8,205 99.2,189 Q 109.6,205 120,189 Q 130.4,205 140.8,189 Q 151.2,205 161.6,189 Q 172,205 182.4,189 Q 192.8,205 203.2,189 Q 213.6,205 224,189 L 224,166 Z"/>
 <path d="M19,132 L14,112" fill="none" stroke-width="12"/>
