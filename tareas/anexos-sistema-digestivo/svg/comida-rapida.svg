@@ -22,10 +22,10 @@
 <circle cx="75" cy="88" r="1.9" fill="#000" stroke="none"/>
 <circle cx="62" cy="94" r="1.9" fill="#000" stroke="none"/>
 <circle cx="80" cy="94" r="1.9" fill="#000" stroke="none"/>
-<path d="M33,98 L38,160" fill="none" stroke-width="17"/>
-<path d="M33,98 L38,160" fill="none" stroke="#fff" stroke-width="10"/>
-<path d="M99,98 L94,160" fill="none" stroke-width="17"/>
-<path d="M99,98 L94,160" fill="none" stroke="#fff" stroke-width="10"/>
+<path d="M33,98 L52,160" fill="none" stroke-width="17"/>
+<path d="M33,98 L52,160" fill="none" stroke="#fff" stroke-width="10"/>
+<path d="M99,98 L80,160" fill="none" stroke-width="17"/>
+<path d="M99,98 L80,160" fill="none" stroke="#fff" stroke-width="10"/>
 <circle cx="35" cy="114" r="9.5"/>
 <path d="M39,108 Q34,103 29,107" fill="none"/>
 <circle cx="97" cy="114" r="9.5"/>
@@ -51,10 +51,10 @@
 <circle cx="183" cy="88" r="1.9" fill="#000" stroke="none"/>
 <circle cx="170" cy="94" r="1.9" fill="#000" stroke="none"/>
 <circle cx="188" cy="94" r="1.9" fill="#000" stroke="none"/>
-<path d="M141,98 L146,160" fill="none" stroke-width="17"/>
-<path d="M141,98 L146,160" fill="none" stroke="#fff" stroke-width="10"/>
-<path d="M207,98 L202,160" fill="none" stroke-width="17"/>
-<path d="M207,98 L202,160" fill="none" stroke="#fff" stroke-width="10"/>
+<path d="M141,98 L160,160" fill="none" stroke-width="17"/>
+<path d="M141,98 L160,160" fill="none" stroke="#fff" stroke-width="10"/>
+<path d="M207,98 L188,160" fill="none" stroke-width="17"/>
+<path d="M207,98 L188,160" fill="none" stroke="#fff" stroke-width="10"/>
 <circle cx="143" cy="114" r="9.5"/>
 <path d="M147,108 Q142,103 137,107" fill="none"/>
 <circle cx="205" cy="114" r="9.5"/>
