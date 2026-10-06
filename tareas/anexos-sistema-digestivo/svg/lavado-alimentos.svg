@@ -2,7 +2,7 @@
   <title>Lavado de alimentos: frutas y verduras bajo el chorro de la llave en la tarja</title>
 
   <!-- marco ovalado -->
-  <ellipse cx="120" cy="105" rx="112" ry="97" stroke-width="3"/>
+  <ellipse cx="120" cy="105" rx="111" ry="96" stroke-width="3"/>
 
   <!-- chorro de agua -->
   <path d="M132,78 C130,84 134,88 132,94 C130,100 134,105 131,110 L129,120 L147,120 L145,110 C148,105 144,100 146,94 C148,88 144,84 144,78 Z"/>
@@ -55,7 +55,6 @@
 
   <!-- gotas de salpicadura -->
   <path d="M154,80 C157,85 160,88 160,92 A6,6 0 0 1 148,92 C148,88 151,85 154,80 Z" transform="rotate(18 154 92)"/>
-  <path d="M122,80 C125,85 128,88 128,92 A6,6 0 0 1 116,92 C116,88 119,85 122,80 Z" transform="rotate(-18 122 92)"/>
   <path d="M168,60 C170,64 173,67 173,70 A5,5 0 0 1 163,70 C163,67 166,64 168,60 Z" transform="rotate(18 168 70)"/>
 
   <!-- burbujas -->
