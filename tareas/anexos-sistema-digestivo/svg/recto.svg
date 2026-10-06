@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="#fff" stroke="#000" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+<title>Recto</title>
+
+<defs>
+ <pattern id="recto-rayas" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+  <rect width="8" height="8" fill="#fff" stroke="none"/><path d="M0,0 L0,8" stroke="#000" stroke-width="2"/>
+ </pattern>
+</defs>
+<path d="M40,166 C32,180 44,192 58,186" fill="none" stroke="#000" stroke-width="12" stroke-width-ignore="1"/>
+<path d="M40,166 C32,180 44,192 58,186" fill="none" stroke="#fff" stroke-width="6"/>
+<circle cx="44" cy="154" r="20" stroke-width="3"/>
+<path d="M44,148 L44,64 C44,42 64,38 80,46 C96,54 112,54 124,46 C142,38 156,48 156,66 L156,124 C156,146 130,146 122,156 C114,166 118,174 104,182" fill="none" stroke="#000" stroke-width="30" />
+<path d="M44,148 L44,64 C44,42 64,38 80,46 C96,54 112,54 124,46 C142,38 156,48 156,66 L156,124 C156,146 130,146 122,156 C114,166 118,174 104,182" fill="none" stroke="#fff" stroke-width="24" />
+<path d="M44,148 L44,64 C44,42 64,38 80,46 C96,54 112,54 124,46 C142,38 156,48 156,66 L156,124 C156,146 130,146 122,156 C114,166 118,174 104,182" fill="none" stroke="#000" stroke-width="24" stroke-linecap="butt" stroke-dasharray="1.6 16"/>
+<circle cx="44" cy="154" r="16" stroke="none"/>
+<!-- recto resaltado -->
+<path d="M122,154 C116,164 118,172 104,182" fill="none" stroke="#000" stroke-width="36"/>
+<path d="M122,154 C116,164 118,172 104,182" fill="none" stroke="url(#recto-rayas)" stroke-width="28"/>
+
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="#fff" stroke="#000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+<title>Ano</title>
+
+<!-- recto y conducto anal -->
+<path d="M52,12 C52,60 100,54 100,108 L100,146" fill="none" stroke="#000" stroke-width="46" stroke-linecap="butt"/>
+<path d="M52,12 C52,60 100,54 100,108 L100,146" fill="none" stroke="#fff" stroke-width="38" stroke-linecap="butt"/>
+<path d="M31,12 L73,12" fill="none"/>
+<!-- esfínteres (músculos) -->
+<rect x="62" y="108" width="76" height="22" rx="11"/>
+<rect x="60" y="134" width="80" height="22" rx="11"/>
+<!-- orificio -->
+<ellipse cx="100" cy="172" rx="28" ry="12"/>
+<ellipse cx="100" cy="172" rx="11" ry="4.5"/>
+
+</svg>

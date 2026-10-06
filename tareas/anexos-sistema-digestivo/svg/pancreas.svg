@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="#fff" stroke="#000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+<title>Páncreas</title>
+
+<!-- duodeno (tubo en C) -->
+<path d="M92,30 C36,32 26,92 40,128 C52,158 92,168 124,158" fill="none" stroke="#000" stroke-width="24" />
+<path d="M92,30 C36,32 26,92 40,128 C52,158 92,168 124,158" fill="none" stroke="#fff" stroke-width="16" />
+<!-- páncreas -->
+<path d="M48,96 C40,70 64,56 92,62 C112,66 132,64 150,50 C166,40 188,38 192,50 C194,62 176,72 164,84 C148,100 124,110 102,118 C80,130 54,124 48,96 Z"/>
+<path d="M64,98 C96,94 140,80 182,50" fill="none" stroke-width="3"/>
+<path d="M68,80 C76,74 84,76 88,82 M104,86 C110,80 118,80 122,86 M138,70 C144,64 152,64 156,70 M80,108 C88,104 96,106 98,112" fill="none" stroke-width="3"/>
+
+</svg>

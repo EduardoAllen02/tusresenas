@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Anexo 26 – Sistema digestivo</title>
+<style>
+{{css}}
+.cols26 { grid-template-columns: 32rem 1fr; }
+.left h3 { margin: 0; font-size: 1.36rem; line-height: 1.45; font-weight: 700; }
+.left .t { margin-top: 1.55rem; }
+.left .t:first-of-type { margin-top: 1.7rem; }
+.cases { display: grid; grid-template-columns: 1fr 1fr; gap: 1.2rem; margin-top: 1.2rem; }
+.case { border: .13rem solid #555; padding: .9rem 1.1rem; min-height: 12rem; font-size: 1.3rem; line-height: 1.45; }
+.case.tall { min-height: 12.4rem; }
+.sec3 .ttl { margin-bottom: 1rem; }
+.sec3 .row { display: flex; gap: 1.6rem; align-items: flex-start; }
+.sec3 table { flex: none; width: 22.4rem; }
+.sec3 td { padding: .55rem .7rem; white-space: nowrap; }
+.sec3 td:nth-child(1) { width: 6rem; } .sec3 td:nth-child(2) { width: 7rem; }
+.clocks { position: relative; flex: 1; height: 21rem; margin-top: -.2rem; }
+.clk { position: absolute; width: 9.6rem; height: 9.6rem; }
+.cl  { position: absolute; font-size: 1.3rem; line-height: 1; }
+</style>
+</head>
+<body>
+<main class="page">
+<div class="sheet">
+
+<header class="head">
+  <div class="pill">Anexo 26</div>
+  <div class="banner">Sistema digestivo</div>
+  {{logo}}
+</header>
+
+<div class="cols cols26">
+
+  <section class="panel left">
+    <h3>1. Lee la siguiente información.</h3>
+    <p class="t">Hierbas esenciales para una buena digestión.</p>
+    <p class="t">Linaza: Mejora la estructura de las heces, facilitando los movimientos intestinales.</p>
+    <p class="t">Anís: Acelera la digestión, aumentando la frecuencia de las deposiciones.</p>
+    <p class="t">Jengibre: Tiene propiedades antihistamínicas que previenen las náuseas.</p>
+    <p class="t">Romero: Mejora la digestión hasta dos semanas después de un masaje abdominal.</p>
+    <p class="t">Manzanilla: Tiene propiedades laxantes que ayudan a aliviar el estreñimiento.</p>
+    <p class="t">Orégano: Posee propiedades carminativas que reducen las flatulencias, la hinchazón y el dolor estomacal.</p>
+    <p class="t">Papaya: Contribuye a acelerar la digestión.</p>
+    <p class="t">Menta: Es digestiva y calmante de trastornos intestinales. Regula vómitos y náuseas.</p>
+  </section>
+
+  <div class="stack">
+    <section class="panel">
+      <p class="ttl">2. Analiza cada caso y escribe la hierba que puede ayudar a curar el malestar.</p>
+      <div class="cases">
+        <div class="case">Ana ha tenido problemas para ir al baño, siente movimientos en el estómago y su digestión es muy lenta.</div>
+        <div class="case">Pedro siente su estómago hinchado y en ocasiones tiene sensaciones de vómito o náuseas.</div>
+        <div class="case tall">Carlos sufre de estreñimiento y de movimientos intestinales.</div>
+        <div class="case tall">Gaby ha notado que sus heces tienen una estructura anormal y ha sentido movimientos intestinales.</div>
+      </div>
+    </section>
+
+    <section class="panel sec3">
+      <p class="ttl">3. En la tabla se muestra el tiempo que tarda cada alimento en digerirse. Si todos comieron su alimento a las 12 en punto, marca en cada reloj la hora en que terminará su digestión.</p>
+      <div class="row">
+        <table>
+          <tr><td>Persona</td><td>Alimento</td><td>Tiempo</td></tr>
+          <tr><td>Toño</td><td>Carne</td><td>4 horas</td></tr>
+          <tr><td>Lupe</td><td>Arroz</td><td>1 ½ horas</td></tr>
+          <tr><td>Ángel</td><td>Queso</td><td>6 horas</td></tr>
+          <tr><td>Mario</td><td>Huevo</td><td>2 ½ horas</td></tr>
+        </table>
+        <div class="clocks">
+          <span class="cl" style="left:0;top:.4rem">Toño</span>
+          <div class="clk" style="left:4.6rem;top:0">{{svg:reloj|pic}}</div>
+          <div class="clk" style="left:15rem;top:0">{{svg:reloj|pic}}</div>
+          <span class="cl" style="left:24.8rem;top:.4rem">Mario</span>
+          <div class="clk" style="left:0;top:9.8rem">{{svg:reloj|pic}}</div>
+          <div class="clk" style="left:10.6rem;top:9.8rem">{{svg:reloj|pic}}</div>
+          <span class="cl" style="left:8.6rem;top:19.2rem">Lupe</span>
+          <span class="cl" style="left:21rem;top:16.4rem">Ángel</span>
+        </div>
+      </div>
+    </section>
+  </div>
+
+</div>
+</div>
+</main>
+</body>
+</html>

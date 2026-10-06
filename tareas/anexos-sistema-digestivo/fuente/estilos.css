@@ -1,0 +1,56 @@
+/* Estilos compartidos de los anexos. Todas las medidas están en rem:
+   1rem = 1/88 del ancho de la hoja, así que al cambiar el tamaño de la
+   hoja todo escala en proporción (sin cambiar el diseño). */
+
+@page { size: Letter; margin: 12mm; }
+
+html { font-size: calc(18.6cm / 88); }                 /* impresión: hoja de 18.6 cm */
+@media screen {
+  html { font-size: 10px; }                            /* pantalla: hoja de 880 px */
+  body { background: #e5e5e5; padding: 2rem 0; }
+  .page { background: #fff; width: 94rem; margin: 0 auto; padding: 3rem 3rem 4rem;
+          box-shadow: 0 .2rem 1rem rgba(0,0,0,.25); }
+}
+
+* { box-sizing: border-box; }
+body {
+  margin: 0; color: #000;
+  font-family: Arial, Helvetica, "Liberation Sans", sans-serif; font-weight: 700;
+  -webkit-print-color-adjust: exact; print-color-adjust: exact;
+}
+.sheet { width: 88rem; margin: 0 auto; }
+p { margin: 0; }
+
+/* ── Encabezado ── */
+.head { position: relative; display: flex; align-items: center; height: 4.4rem; margin-bottom: 1.8rem; }
+.pill { height: 4.2rem; padding: 0 2.6rem; border: .22rem solid #333; border-radius: 2.4rem;
+        display: flex; align-items: center; font-size: 2.5rem; background: #fff; }
+.banner { width: 33.5rem; height: 3.8rem; margin-left: .8rem; background: #d9d9d9;
+          display: flex; align-items: center; justify-content: center; font-size: 2.2rem; }
+.logo { position: absolute; right: .4rem; top: -.3rem; width: 5.4rem; height: 4.8rem; }
+
+/* ── Paneles ── */
+.panel { border: .15rem solid #333; padding: 1.4rem 1.6rem; }
+.cols { display: grid; gap: 1.2rem; align-items: stretch; }
+.stack { display: flex; flex-direction: column; gap: 1.1rem; }
+.stack > .panel { flex: none; }
+
+.t   { font-size: 1.32rem; line-height: 1.5; }
+.ttl { font-size: 1.36rem; line-height: 1.45; }
+.gap { margin-top: 1.5rem; }
+
+/* Líneas para escribir */
+.lines { margin-top: .2rem; }
+.lines i { display: block; height: 2.35rem; border-bottom: .12rem solid #333; }
+
+/* Tablas */
+table { border-collapse: collapse; font-size: 1.3rem; }
+td, th { border: .13rem solid #333; padding: .55rem .9rem; text-align: left; font-weight: 700; height: 2.9rem; }
+
+/* Pregunta con línea de respuesta al final */
+.qa { font-size: 1.32rem; line-height: 1.5; margin-bottom: 1.1rem; }
+.qa .fill { display: inline-block; width: 11rem; height: 1.3rem; border-bottom: .12rem solid #333; margin-left: .5rem; }
+
+/* Ilustraciones */
+svg.pic { display: block; width: 100%; height: 100%; overflow: visible; }
+svg text { font-family: Arial, Helvetica, "Liberation Sans", sans-serif; }

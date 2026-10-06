@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="#fff" stroke="#000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+<title>Estómago</title>
+
+<!-- esófago -->
+<path d="M64,8 C64,26 66,36 70,50" fill="none" stroke="#000" stroke-width="18" />
+<path d="M64,8 C64,26 66,36 70,50" fill="none" stroke="#fff" stroke-width="10" />
+<!-- duodeno -->
+<path d="M72,128 C56,138 42,150 42,172 C42,188 58,194 70,188" fill="none" stroke="#000" stroke-width="18" />
+<path d="M72,128 C56,138 42,150 42,172 C42,188 58,194 70,188" fill="none" stroke="#fff" stroke-width="10" />
+<!-- estómago -->
+<path d="M62,46 C98,28 150,34 172,74 C192,112 164,170 114,172 C86,174 62,158 62,138 C62,120 82,120 86,134 C88,146 106,148 116,138 C128,126 116,108 102,92 C86,76 66,66 62,46 Z"/>
+<path d="M110,56 C128,54 144,62 154,76 M136,90 C150,100 154,116 148,130 M104,150 C118,160 134,158 144,148" fill="none" stroke-width="3"/>
+
+</svg>
